@@ -12,7 +12,7 @@ private:
 public:
 	Pingas()
 	{
-
+		 
 	}
 
 	void Init(const char *nm)
